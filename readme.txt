@@ -1,3 +1,4 @@
 git is a version control system
-git is $50 software
-first 
+git is $100 software change cost
+first
+new line 100change
